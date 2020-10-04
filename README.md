@@ -1,1 +1,1 @@
-# Sequential_Rec
+# Sequential_Rec(only for test)
